@@ -1,0 +1,480 @@
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\appsettings.json
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.exe
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.deps.json
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.json
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.dev.json
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.pdb
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.Views.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.Views.pdb
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csprojAssemblyReference.cache
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\staticwebassets\Exercicio.StaticWebAssets.Manifest.cache
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\staticwebassets\Exercicio.StaticWebAssets.xml
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorAssemblyInfo.cache
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorAssemblyInfo.cs
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfoInputs.cache
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfo.cs
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.TagHelpers.input.cache
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.TagHelpers.output.cache
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorCoreGenerate.cache
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorTargetAssemblyInfo.cache
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorTargetAssemblyInfo.cs
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.Views.pdb
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.dll
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.pdb
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csproj.CopyComplete
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.MvcApplicationPartsAssemblyInfo.cache
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Panela.cshtml.g.cs
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Cachorro.cshtml.g.cs
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Carro.cshtml.g.cs
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Cebola.cshtml.g.cs
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Celular.cshtml.g.cs
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Chuveiro.cshtml.g.cs
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Ingresso.cshtml.g.cs
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Porta.cshtml.g.cs
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Aniversario.cshtml.g.cs
+C:\Users\Natali Elis\Downloads\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csprojAssemblyReference.cache
+C:\Users\Natali Elis\Downloads\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\staticwebassets\Exercicio.StaticWebAssets.Manifest.cache
+C:\Users\Natali Elis\Downloads\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\staticwebassets\Exercicio.StaticWebAssets.xml
+C:\Users\Natali Elis\Downloads\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Natali Elis\Downloads\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorAssemblyInfo.cache
+C:\Users\Natali Elis\Downloads\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorAssemblyInfo.cs
+C:\Users\Natali Elis\Downloads\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfoInputs.cache
+C:\Users\Natali Elis\Downloads\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfo.cs
+C:\Users\Natali Elis\Downloads\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.dll
+C:\Users\Natali Elis\Downloads\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.pdb
+E:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Viagem.cshtml.g.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.exe
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.deps.json
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.json
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.dev.json
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.pdb
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.Views.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.Views.pdb
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csprojAssemblyReference.cache
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\staticwebassets\Exercicio.StaticWebAssets.Manifest.cache
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\staticwebassets\Exercicio.StaticWebAssets.xml
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorAssemblyInfo.cache
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorAssemblyInfo.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfoInputs.cache
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfo.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.TagHelpers.input.cache
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.TagHelpers.output.cache
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorCoreGenerate.cache
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Aniversario.cshtml.g.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Cachorro.cshtml.g.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Carro.cshtml.g.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Cebola.cshtml.g.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Celular.cshtml.g.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Chuveiro.cshtml.g.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Ingresso.cshtml.g.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Panela.cshtml.g.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Porta.cshtml.g.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Viagem.cshtml.g.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorTargetAssemblyInfo.cache
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorTargetAssemblyInfo.cs
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.Views.pdb
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csproj.CopyComplete
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.dll
+C:\Users\Natali Elis\Documents\Documentos\Escola\Ensino Técnico\3IPIIEM-2020\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.pdb
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.exe
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.deps.json
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.json
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.dev.json
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.pdb
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.Views.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.Views.pdb
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csprojAssemblyReference.cache
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\staticwebassets\Exercicio.StaticWebAssets.Manifest.cache
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\staticwebassets\Exercicio.StaticWebAssets.xml
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.MvcApplicationPartsAssemblyInfo.cache
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorAssemblyInfo.cache
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorAssemblyInfo.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfoInputs.cache
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfo.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.TagHelpers.input.cache
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.TagHelpers.output.cache
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorCoreGenerate.cache
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Aniversario.cshtml.g.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Cachorro.cshtml.g.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Carro.cshtml.g.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Cebola.cshtml.g.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Celular.cshtml.g.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Chuveiro.cshtml.g.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Ingresso.cshtml.g.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Panela.cshtml.g.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Porta.cshtml.g.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Viagem.cshtml.g.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorTargetAssemblyInfo.cache
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorTargetAssemblyInfo.cs
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.Views.pdb
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csproj.CopyComplete
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.dll
+D:\PW2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.pdb
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\appsettings.json
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.exe
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.deps.json
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.json
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.dev.json
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.pdb
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.Views.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.Views.pdb
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csprojAssemblyReference.cache
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfoInputs.cache
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfo.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csproj.CoreCompileInputs.cache
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.MvcApplicationPartsAssemblyInfo.cache
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorAssemblyInfo.cache
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorAssemblyInfo.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.TagHelpers.input.cache
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.TagHelpers.output.cache
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorCoreGenerate.cache
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Aniversario.cshtml.g.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Cachorro.cshtml.g.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Carro.cshtml.g.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Cebola.cshtml.g.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Celular.cshtml.g.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Chuveiro.cshtml.g.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Ingresso.cshtml.g.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Panela.cshtml.g.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Porta.cshtml.g.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\Viagem.cshtml.g.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorTargetAssemblyInfo.cache
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.RazorTargetAssemblyInfo.cs
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.Views.pdb
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csproj.CopyComplete
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\staticwebassets\Exercicio.StaticWebAssets.Manifest.cache
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\staticwebassets\Exercicio.StaticWebAssets.xml
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.dll
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.pdb
+F:\3EM\Pw2\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.genruntimeconfig.cache
